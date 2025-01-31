@@ -1,8 +1,12 @@
 ## Problem:
 Many small-scale farmers in Kenya and Africa struggle to save and invest because:
+
 Irregular income – Earnings depend on harvest cycles
+
 Lack of access to formal banking – Most farmers rely on mobile money
+
 No structured financial planning – Farmers spend all earnings without long-term savings
+
 Low financial literacy – Many don’t know where to invest
 
 ## Solution: A Mobile & USSD-Based Farmers’ Savings & Investment App
